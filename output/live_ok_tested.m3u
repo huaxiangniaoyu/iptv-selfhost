@@ -221,12 +221,16 @@ https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https
 #EXTINF:-1 tvg-name="News12 Bronx (1080p) [Geo-blocked]" tvg-logo="" group-title="新闻频道",News12 Bronx (1080p) [Geo-blocked]
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https
+#EXTINF:-1 tvg-name="News12+ New York (1080p) [Geo-blocked]" tvg-logo="" group-title="新闻频道",News12+ New York (1080p) [Geo-blocked]
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_A1/index_new.m3u8
+#EXTINF:-1 tvg-name="News12+ Hudson Valley (1080p) [Geo-blocked]" tvg-logo="" group-title="新闻频道",News12+ Hudson Valley (1080p) [Geo-blocked]
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8
 #EXTINF:-1 tvg-name="Big TV 24x7 (1080p)" tvg-logo="" group-title="新闻频道",Big TV 24x7 (1080p)
 https://stream.ottlive.co.in/bigtvmalayalam/index.m3u8
 #EXTINF:-1 tvg-name="News Tamil 24x7 (1080p)" tvg-logo="" group-title="新闻频道",News Tamil 24x7 (1080p)
 https://stream.ottlive.co.in/newstamil/index.m3u8
-#EXTINF:-1 tvg-name="News12 Westchester (1080p) [Geo-blocked]" tvg-logo="" group-title="新闻频道",News12 Westchester (1080p) [Geo-blocked]
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https
+#EXTINF:-1 tvg-name="News12 Conneticut [Geo-blocked]" tvg-logo="" group-title="新闻频道",News12 Conneticut [Geo-blocked]
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https
 #EXTINF:-1 tvg-name="CNews (1080p)" tvg-logo="" group-title="新闻频道",CNews (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
 #EXTINF:-1 tvg-name="Zee Tamil News (720p)" tvg-logo="" group-title="新闻频道 / 印度",Zee Tamil News (720p)
@@ -373,8 +377,6 @@ http://15.204.246.24:8080/CinecanalHD/index.m3u8
 https://d3k8wzt41aflvx.cloudfront.net/RAISA/Live.m3u8
 #EXTINF:-1 tvg-name="Stingray Hot Country (1080p)" tvg-logo="" group-title="娱乐频道",Stingray Hot Country (1080p)
 https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-name="Warner Channel Mexico (1080p) [Geo-blocked]" tvg-logo="" group-title="娱乐频道",Warner Channel Mexico (1080p) [Geo-blocked]
-http://15.204.246.24:8080/WarnerChannelHD/index.m3u8
 #EXTINF:-1 tvg-name="DHE (1080p)" tvg-logo="" group-title="娱乐频道",DHE (1080p)
 http://15.204.246.24:8080/DHEHD/index.m3u8
 #EXTINF:-1 tvg-name="El Nueve (1080p)" tvg-logo="" group-title="娱乐频道",El Nueve (1080p)
@@ -501,8 +503,6 @@ https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
 https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8
 #EXTINF:-1 tvg-name="Camp Spoopy (576p)" tvg-logo="" group-title="娱乐频道",Camp Spoopy (576p)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
-#EXTINF:-1 tvg-name="Eco TV (1080p)" tvg-logo="" group-title="娱乐频道",Eco TV (1080p)
-https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 #EXTINF:-1 tvg-name="HTV 2 Houston Television (720p)" tvg-logo="" group-title="娱乐频道",HTV 2 Houston Television (720p)
 https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8
 #EXTINF:-1 tvg-name="RVTV Grants Pass (720p)" tvg-logo="" group-title="娱乐频道",RVTV Grants Pass (720p)
